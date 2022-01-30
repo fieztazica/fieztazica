@@ -1,7 +1,7 @@
 # 💫About Me :
 he/him 🦉
 
-🦉I'm currently working on Project O
+🦉I'm currently working on Project O - a Discord Bot that might help people and enjoy them
 
 owner & developer @ [Owlvernyte](https://discord.io/owlvernyte+)
 
