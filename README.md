@@ -3,7 +3,7 @@ he/him 🦉
 
 🦉I'm currently working on Project O - a Discord Bot that might help people and enjoy them
 
-owner & developer @ [Owlvernyte](https://discord.io/owlvernyte+)
+owner & developer @ [![Owlvernyte](https://discord.io/owlvernyte/badge)](https://discord.io/owlvernyte+) [![Discord Bot](https://discordbots.org/api/widget/status/853623967180259369.svg)](https://top.gg/bot/853623967180259369)
 
 [vote](https://top.gg/bot/853623967180259369/vote) or [get](https://top.gg/bot/853623967180259369/invite) [owlvernyte bot](https://j2c.cc/owlvernyte-bot)
 
