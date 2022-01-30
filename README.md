@@ -1,7 +1,10 @@
 # 💫About Me :
 he/him 🦉
+
 🦉I'm currently working on Project O
+
 owner & developer @ [Owlvernyte](https://discord.io/owlvernyte+)
+
 vote or get [owlvernyte bot](https://j2c.cc/owlvernyte-bot)
 
 ## 🌐Socials
