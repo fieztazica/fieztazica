@@ -5,7 +5,7 @@ he/him 🦉
 
 owner & developer @ [![Owlvernyte](https://img.shields.io/badge/-Owlvernyte-5865F2?style=flat-square)](https://discord.io/owlvernyte) 
 
-[![Owlvernyte](https://discord.io/owlvernyte/badge?style=flat-square)](https://discord.io/owlvernyte+) 
+[![Owlvernyte](https://discord.io/owlvernyte/badge)](https://discord.io/owlvernyte+) 
 
 [![Discord Bot](https://discordbots.org/api/widget/status/853623967180259369.svg)](https://top.gg/bot/853623967180259369)
 
