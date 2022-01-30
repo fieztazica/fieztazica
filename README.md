@@ -1,8 +1,8 @@
 # 💫About Me :
 🦉I'm currently working on Project O
 
-owner & developer @ https://discord.io/owlvernyte+\n
-he/him 🦉 https://linktr.ee/fiezt\n
+owner & developer @ https://discord.io/owlvernyte+ \n
+he/him 🦉 https://linktr.ee/fiezt \n
 vote or get owlvernyte bot: https://j2c.cc/owlvernyte-bot
 
 ## 🌐Socials
