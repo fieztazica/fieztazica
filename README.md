@@ -7,7 +7,7 @@ owner & developer @ [![Owlvernyte](https://img.shields.io/badge/-Owlvernyte-5865
 
 [![Owlvernyte](https://discord.io/owlvernyte/badge)](https://discord.io/owlvernyte+) 
 
-[![Discord Bot](https://discordbots.org/api/widget/status/853623967180259369.svg)](https://top.gg/bot/853623967180259369)
+[![Discord Bot](https://discordbots.org/api/widget/status/853623967180259369.svg?style=flat-square)](https://top.gg/bot/853623967180259369)
 
 [vote](https://top.gg/bot/853623967180259369/vote) or [get](https://top.gg/bot/853623967180259369/invite) [owlvernyte bot](https://j2c.cc/owlvernyte-bot)
 
