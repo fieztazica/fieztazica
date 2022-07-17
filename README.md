@@ -10,6 +10,7 @@ he/him 🦉
 [![Discord Bot](https://discordbots.org/api/widget/status/853623967180259369.svg)](https://top.gg/bot/853623967180259369) [![Discord Bot](https://discordbots.org/api/widget/status/804616628359921684.svg)](https://top.gg/bot/804616628359921684)
 
 [vote](https://top.gg/bot/853623967180259369/vote) or [get](https://top.gg/bot/853623967180259369/invite) [recard bot](https://recard.owlvernyte.tk)
+
 [vote](https://top.gg/bot/804616628359921684/vote) or [get](https://top.gg/bot/804616628359921684/invite) [hoot bot](https://hoot.owlvernyte.tk)
 
 ## 🌐Socials
