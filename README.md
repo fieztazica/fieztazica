@@ -1,8 +1,6 @@
 # 💫About Me :
 he/him 🦉
 
-🦉I'm currently working on some Discord Bots
-
 [![Owlvernyte](https://img.shields.io/badge/-Owlvernyte-5865F2?style=flat-square)](https://discord.io/owlvernyte) @ owner & developer
 
 [![Owlvernyte](https://discord.io/owlvernyte/badge)](https://discord.io/owlvernyte+) 
