@@ -1,7 +1,7 @@
 # 💫About Me :
 he/him 🦉
 
-[![Owlvernyte](https://img.shields.io/badge/-Owlvernyte-5865F2?style=flat-square)](https://discord.io/owlvernyte) @ owner & developer
+[![Owlvernyte](https://img.shields.io/badge/-Owlvernyte-5865F2?style=flat-square)](https://owlvernyte.tk) @ owner & developer
 
 [![Owlvernyte](https://discord.io/owlvernyte/badge)](https://discord.io/owlvernyte+) 
 
