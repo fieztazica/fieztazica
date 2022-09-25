@@ -1,5 +1,7 @@
 # 💫About Me :
-he/him 🦉
+He/Him.
+I'm currently studying 3rd year IT - Software Engineer at HUTECH. I enjoy playing games and my dream is becoming a Game Developer.
+I'm learning ReactJS with MUI, .NET and SQL.
 
 [![Owlvernyte](https://img.shields.io/badge/-Owlvernyte-5865F2?style=flat-square)](https://owlvernyte.tk) @ owner & developer
 
