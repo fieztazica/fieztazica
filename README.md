@@ -1,6 +1,8 @@
 # 💫About Me :
 
-He/Him. I'm currently studying 3rd year IT - Software Engineer at HUTECH. I enjoy playing games and my dream is becoming a Game Developer. I'm learning ReactJS with MUI, .NET and MSSQL.
+> He/Him.
+> Student 3rd year IT - Software Engineer at HUTECH.
+> Learning ReactJS with MUI, .NET and MSSQL.
 
 [Owlvernyte](https://owlvernyte.tk) @ owner & developer
 
