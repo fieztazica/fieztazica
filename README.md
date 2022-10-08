@@ -2,7 +2,7 @@
 
 > He/Him.
 >
-> Student 3rd year IT - Software Engineer at HUTECH.
+>  3rd year IT Student - Software Engineer @ HUTECH.
 > 
 > Learning ReactJS with MUI, .NET and MSSQL.
 >
