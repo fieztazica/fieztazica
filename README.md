@@ -2,7 +2,7 @@
 
 > He/Him.<br/>
 > 3rd year IT Student - Software Engineer.<br/>
-> Interested in FPS.
+> Interested in FPS games.
 >
 > Owner & Dev @ [Owlvernyte](https://owlvernyte.tk)
 
