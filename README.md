@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="assets/top-cover.jpg">
+  <a href="https://fiezt.ga">
+    <img src="assets/top-cover.jpg">
+  </a>
 </p>
 
 ## 🦉About me
