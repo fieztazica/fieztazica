@@ -9,9 +9,9 @@
 ## 📊GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=fiezt1492&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" height="128">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiezt1492&theme=dracula&hide_border=true" height="128">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiezt1492&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="128">
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=fiezt1492&theme=dracula&hide_border=true)
+  ![](https://raw.githubusercontent.com/fiezt1492/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/fiezt1492/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 </p>
 
 ---
