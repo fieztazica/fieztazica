@@ -14,4 +14,7 @@
 </p>
 
 ---
-<img alt="Fiezt's profile views" src="https://komarev.com/ghpvc/?username=fiezt1492&label=Views&color=ff79c6&style=for-the-badge"/>
+
+<p align="right">
+    <img alt="Fiezt's profile views" src="https://komarev.com/ghpvc/?username=fiezt1492&label=Views&color=ff79c6&style=for-the-badge"/>
+</p>
