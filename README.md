@@ -14,9 +14,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiezt1492&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="128">
 </p>
 
-### 🏆GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=fiezt1492&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
-
 ---
 ![](https://komarev.com/ghpvc/?username=fiezt1492&label=Views&color=ff79c6&style=for-the-badge)
