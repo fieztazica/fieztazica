@@ -14,19 +14,15 @@
     <img alt="Fiezt's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fiezt1492&theme=dracula&hide_border=true"/>
 </p>
 
-## ♻ Activity
+## ♻ Activities
 
 <p align="center">
-    <span style="display: flex; justify-content: space-between;">
-        <img alt="Fiezt's habits" src="https://github.com/fiezt1492/fiezt1492/blob/main/metrics.plugin.habits.facts.svg"/>
-        <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ca47euftbpvk3cbt3aw5zc7rgm&redirect=true" target="_blank">
-        <img alt="Fiezt's Spotify Status" src="https://spotify-github-profile.vercel.app/api/view?uid=31ca47euftbpvk3cbt3aw5zc7rgm&cover_image=true&theme=novatorem&show_offline=false&background_color=333333&interchange=false&bar_color_cover=true&bar_color=00ffff"/>
-        </a>
-    </span>
-    <span style="display: flex; justify-content: space-between;">
-        <img alt="Fiezt's lines" src="https://github.com/fiezt1492/fiezt1492/blob/main/metrics.plugin.lines.svg"/>
-        <img alt="Fiezt's steam" src="https://github.com/fiezt1492/fiezt1492/blob/main/metrics.plugin.steam.full.svg"/>
-    </span>
+    <img alt="Fiezt's habits" src="https://raw.githubusercontent.com/fiezt1492/fiezt1492/main/metrics.plugin.habits.facts.svg"/>
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ca47euftbpvk3cbt3aw5zc7rgm&redirect=true" target="_blank">
+    <img alt="Fiezt's Spotify Status" src="https://spotify-github-profile.vercel.app/api/view?uid=31ca47euftbpvk3cbt3aw5zc7rgm&cover_image=true&theme=novatorem&show_offline=false&background_color=333333&interchange=false&bar_color_cover=true&bar_color=00ffff"/>
+    </a>
+    <img alt="Fiezt's lines" src="https://raw.githubusercontent.com/fiezt1492/fiezt1492/main/metrics.plugin.lines.svg"/>
+<img alt="Fiezt's steam" src="https://raw.githubusercontent.com/fiezt1492/fiezt1492/main/metrics.plugin.steam.full.svg"/>
 </p>
 
 ---
