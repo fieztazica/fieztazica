@@ -24,14 +24,12 @@
 
 ---
 
-<p style="display: flex; justify-content: space-between;">
-    <span>
-        <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ca47euftbpvk3cbt3aw5zc7rgm&redirect=true" target="_blank">
-            <img alt="Fiezt's Spotify Status" src="https://spotify-github-profile.vercel.app/api/view?uid=31ca47euftbpvk3cbt3aw5zc7rgm&cover_image=true&theme=novatorem&show_offline=false&background_color=333333&interchange=false&bar_color_cover=true&bar_color=00ffff"/>
-        </a>
-    </span>
-    <span>
+<p align="right">
+    <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ca47euftbpvk3cbt3aw5zc7rgm&redirect=true" target="_blank">
+        <img alt="Fiezt's Spotify Status" src="https://spotify-github-profile.vercel.app/api/view?uid=31ca47euftbpvk3cbt3aw5zc7rgm&cover_image=true&theme=novatorem&show_offline=false&background_color=333333&interchange=false&bar_color_cover=true&bar_color=00ffff"/>
+    </a>
+</p>
+ <p align="right">
         <img src="https://dcbadge.vercel.app/api/shield/445102575314927617?theme=discord-inverted" />
         <img alt="Fiezt's profile views" src="https://komarev.com/ghpvc/?username=fiezt1492&label=Views&color=ff79c6&style=for-the-badge"/>
-    </span>
 </p>
