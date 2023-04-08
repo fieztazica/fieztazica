@@ -23,12 +23,14 @@ jobs:
           plugin_habits_charts: no
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.steam.full.svg
+          filename: metrics.plugin.steam.svg
           token: NOT_NEEDED
           base: ""
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam: yes
           plugin_steam_user: "76561198811832261"
+          plugin_steam_sections: recently-played
+          plugin_steam_achievements_limit: 0
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.lines.svg

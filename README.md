@@ -19,7 +19,7 @@
 <p align="center">
     <img alt="Fiezt's habits" src="https://raw.githubusercontent.com/fiezt1492/fiezt1492/main/metrics.plugin.habits.facts.svg"/>
     <img alt="Fiezt's lines" src="https://raw.githubusercontent.com/fiezt1492/fiezt1492/main/metrics.plugin.lines.svg"/>
-<img alt="Fiezt's steam" src="https://raw.githubusercontent.com/fiezt1492/fiezt1492/main/metrics.plugin.steam.full.svg"/>
+<img alt="Fiezt's steam" src="https://raw.githubusercontent.com/fiezt1492/fiezt1492/main/metrics.plugin.steam.svg"/>
 </p>
 
 ---
