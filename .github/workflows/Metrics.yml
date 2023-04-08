@@ -1,4 +1,4 @@
-name: Mildly interesting facts
+name: Metrics
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -21,3 +21,17 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.steam.full.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam: yes
+          plugin_steam_user: "76561198811832261"
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.lines.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: repositories
+          plugin_lines: yes
