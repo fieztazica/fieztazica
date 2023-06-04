@@ -24,6 +24,11 @@
 
 ---
 
+<a target="_blank" rel="noreferrer noopener" href="https://nextcloud.com/sharing#fiezt@next.nyte.tk" style="padding:10px;background-color:#2D2D2D;color:#fffff;border-radius:3px;padding-left:4px;">
+	<span style="background-image:url(https://next.nyte.tk/apps/theming/image/logo?useSvg=1&v=22);width:50px;height:30px;position:relative;top:8px;background-size:contain;display:inline-block;background-repeat:no-repeat; background-position: center center;"></span>
+	Share with me via Nextcloud
+</a>
+
 <p align="right">
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=31ca47euftbpvk3cbt3aw5zc7rgm&redirect=true" target="_blank">
         <img alt="Fiezt's Spotify Status" src="https://spotify-github-profile.vercel.app/api/view?uid=31ca47euftbpvk3cbt3aw5zc7rgm&cover_image=true&theme=novatorem&show_offline=false&background_color=333333&interchange=false&bar_color_cover=true&bar_color=00ffff"/>
