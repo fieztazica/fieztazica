@@ -30,6 +30,8 @@
     </a>
 </p>
  <p align="right">
-        <img src="https://dcbadge.vercel.app/api/shield/445102575314927617?theme=discord-inverted" />
+        <a  href="https://discord.com/users/445102575314927617">
+          <img src="https://dcbadge.vercel.app/api/shield/445102575314927617?theme=discord-inverted" />
+        </a>
         <img alt="Fiezt's profile views" src="https://komarev.com/ghpvc/?username=fiezt1492&label=Views&color=ff79c6&style=for-the-badge"/>
 </p>
