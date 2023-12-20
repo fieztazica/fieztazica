@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fiezt.ga" target="_blank">
+  <a href="https://fiezt1492.github.io" target="_blank">
     <img src="assets/top-cover.jpg">
   </a>
 </p>
