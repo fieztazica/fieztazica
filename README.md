@@ -24,7 +24,7 @@
 ---
 
 <p align="right">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=21zwod6ngnhvjeh3ww2tchpza&redirect=true" target="_blank">
-        <img alt="Fiezt's Spotify Status" src="https://spotify-github-profile.vercel.app/api/view?uid=21zwod6ngnhvjeh3ww2tchpza&cover_image=true&theme=novatorem&show_offline=true&background_color=0c0c0c&interchange=false&bar_color=53b14f&bar_color_cover=true"/>
+    <a href="https://spotify-github-profile..kittinanx.com/api/view?uid=21zwod6ngnhvjeh3ww2tchpza&redirect=true" target="_blank">
+        <img alt="Fiezt's Spotify Status" src="https://spotify-github-profile.kittinanx.com/api/view?uid=21zwod6ngnhvjeh3ww2tchpza&cover_image=true&theme=novatorem&show_offline=true&background_color=0c0c0c&interchange=false&bar_color=53b14f&bar_color_cover=true"/>
     </a>
 </p>
