@@ -23,7 +23,7 @@
 
 ---
 
-<p align="right">
+<p align="center">
     <a href="https://discord.com/users/445102575314927617" target="_blank">
         <img alt="Fiezt's Discord Status" src="https://lanyard.kyrie25.me/api/445102575314927617"/>
     </a>
